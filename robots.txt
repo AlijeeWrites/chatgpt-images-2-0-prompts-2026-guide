@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Direct search engines to your sitemap
+Sitemap: https://alijeewrites.github.io/chatgpt-images-2-0-prompts-2026-guide/sitemap.xml
