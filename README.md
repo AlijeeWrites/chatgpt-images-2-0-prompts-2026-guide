@@ -69,7 +69,7 @@ Shot on 50mm lens, shallow depth of field.
 
 # 🎁 ChatGPT Image 2.0 Prompts PDF
 
-👉 Download the [300+ ChatGPT Image 2.0 Prompts PDF](https://sevensky.gumroad.com)  
+👉 Download the [300+ ChatGPT Image 2.0 Prompts PDF](https://sevensky.gumroad.com/l/chatgpt-images-2-prompts-pack))  
 - Advanced templates  
 - Viral prompts  
 - Ready-to-use designs  
